@@ -1,4 +1,4 @@
-# Spring REST lab
+# Spring Boot lab
 
 * Perform an HTTP GET request
 ```bash
